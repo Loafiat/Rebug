@@ -1,4 +1,8 @@
+![REBUG](https://github.com/user-attachments/assets/4763e886-9570-40ff-bb6f-9c65d5284814)
+
+
 # Rebug
+
 A Gorilla Tag mod that reactivates the Debug UI used by the developers of the game, useful for mod development. 
 
 ## NOTE:
